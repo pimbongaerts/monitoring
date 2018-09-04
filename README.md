@@ -20,7 +20,7 @@ Repository for longitudinal shallow/mesophotic monitoring data. Currently only c
 | GBR    | Tijou*                  | S13.06435 E143.95081 | 2012-2017| 10, 40 (,60, 80,100)         |[csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/gbr_tijou.csv) |
 | GBR    | Yonge*                  | S14.61609 E145.63702 | 2012-2017| 10, 40 (,60, 80,100)         |[csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/gbr_yonge.csv) |
 | WCS    | Osprey "Dutch Towers"*  | S13.82032 E146.56122 | 2012-2017|10, 40, 60***| [csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/wcs_ospdt.csv) |
-| WCS    | Osprey "Bigeye Ledge"*  | S13.82032 E146.56122 | 2012-2017| 10, 40, 60*** | [csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/wcs_ospbl.csv) |
+| WCS    | Osprey "Bigeye Ledge"*  | S13.85845 E146.56195 | 2012-2017| 10, 40, 60*** | [csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/wcs_ospbl.csv) |
 | WCS    | Osprey "Nautilus Wall"* | S13.88925 E146.55503 | 2012-2017|10, 40, 60***| [csv](https://github.com/pimbongaerts/monitoring/blob/master/datasets_by_location/wcs_ospnw.csv) |
 | WCS    | Bougainville 1*         |                      | (2017-)                                                      | 10, 40                       | |
 | WCS    | Bougainville 2*         |                      | (2017-)                                                      | 10, 40                       | |
