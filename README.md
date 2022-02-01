@@ -8,7 +8,7 @@ Repository for published shallow/mesophotic longitudinal monitoring datasets: te
 
 |  | Reference                                                    | Dataset                                                      |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| | Hernandez-Agreda A, Sahit FM, Englebert N, Hoegh-Guldberg O, Bongaerts P (2022) Hidden in the deep: Distinct benthic trajectories call for monitoring of mesophotic reefs. *in press* | [benthic csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/2022_conslett.csv) |
+| | Hernandez-Agreda A, Sahit FM, Englebert N, Hoegh-Guldberg O, Bongaerts P (2022) Hidden in the deep: Distinct benthic trajectories call for monitoring of mesophotic reefs. *in press* | [benthic csv](https://github.com/pimbongaerts/monitoring/blob/master/benthic/2022_conslett.csv) |
 | ![](screenshot2.png) | Frade PR, Bongaerts P, Englebert N, Rogers A, Gonzalez-Rivero M and Hoegh-Guldberg O (2018) [Deep reefs of the Great Barrier Reef offer limited thermal refuge during mass coral bleaching](https://dx.doi.org/10.1038/s41467-018-05741-0).  *Nature Communications* 9:3447 | TBD |
 | ![](screenshot1.png) | Bongaerts P, Frade PR, Hay KB, Englebert N, Latijnhouwers KRW, Bak RPM, Vermeij MJA, Hoegh-Guldberg O (2015) [Deep down on a Caribbean reef: lower mesophotic depths harbor a specialized coral-endosymbiont community]( https://doi.org/10.1038/srep07652). *Scientific Reports* (2015) 5:7652 | TBD                                              |
 
