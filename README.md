@@ -29,13 +29,13 @@ Repository for published shallow/mesophotic longitudinal monitoring datasets: te
 | WCS    | Bougainville 2*         |                      | (2017-)                                                      | 10, 40                       | |
 | WCS    | Holmes Reef             | S16.48211 E147.87111 | 2012-2017| 10, 40 (,60)                 |[csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/wcs_holme.csv) |
 |  | **Curacao** (Caribbean) |  | |  | |
-| CUR | Director's Bay* |  | 2022-2023 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Seaquarium / Substation* | N12.08445 W68.89833 | 2013-2014,<br />2018-2022 | 10, 25, 40, 60, 80, 100, 120 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Water Factory* |  | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Snakebay* |  | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Coral Estate* |  | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Playa Hulu* |  | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
-| CUR | Playa Kalki* |  | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Director's Bay* | 12.065454 -68.860059 | 2022-2023 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Seaquarium / Substation* | 12.084340 -68.898555 | 2013-2014,<br />2018-2022 | 10, 25, 40, 60, 80, 100, 120 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Water Factory* | 12.108458 -68.953351 | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Snakebay* | 12.138805 -68.998297 | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Coral Estate* | 12.198102 -69.079834 | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Playa Hulu* | 12.287546 -69.152604 | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
+| CUR | Playa Kalki* | 12.375181 -69.158803 | 2020-2022 | 5, 10, 20, 40, 60 | [csv](https://github.com/pimbongaerts/monitoring/blob/master/temperature/) |
 
 \* Temperature loggers still out at these locations
 
